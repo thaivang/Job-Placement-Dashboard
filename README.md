@@ -13,10 +13,10 @@ Delete the remove link in the view and deletion function in te controller for th
   - Establish a connection to the database from ApplicationUser table to the JPStudent Model then combine those two tables with JPChecklists
 
 # Database Table
-![Database Tables](ViewModelConnectionTable.png "Database Tables")
+![Database Tables](/Images/ViewModelConnectionTable.png)
 
 # Viewmodel
-![ViewModel Table](ViewModel.png "ViewModel Table")
+![ViewModel Table](/Images/ViewModelTable.png)
 
 This code snippet is part of what the code is doing. It was hard understanding how to query the database but I learned how to join multiple tables together and present that information to the view. The application count and offercount will be base on the student id that is currently in the query.
 ##### Note: This code is not finish but it's intent is to query the database and then display the information to the admin
